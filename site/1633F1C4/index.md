@@ -1,0 +1,70 @@
+## 4096R/0xF23042781633F1C4
+
+This is the owner of the previous two keys, and will be used to issue
+revocations and sign new keys. It is kept offline, and messages to
+this key will not be read. This key should only be used to verify the
+provenance of keys.
+
+[ASCII-armoured key](/1633F1C4/1633F1C4.asc)
+
+```
+pub   4096R/0xF23042781633F1C4 2015-09-16 [expires: 2035-09-11]
+      Key fingerprint = 7645 3DA9 A6E9 0715 C06F  2252 F230 4278 1633 F1C4
+uid                 [ultimate] Kyle Isom (identity key) <isomk@kyleisom.net>
+sub   4096R/0xC34316210F42954F 2015-09-16 [expires: 2035-09-11]
+      Key fingerprint = 2637 81CC 63DB 3383 DC72  0647 C343 1621 0F42 954F
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQINBFX48uYBEAClX2NrOsUku1Cz5rQKopBxMP7wbHsY39aPMdrxfyh/k+VD4dvu
+FKBND57Ze/aQOGt/kA73kvNukRhl+Y65BexXcm8XziGHyJh+076Y7b8qP1r4itma
+FOXtk5z+q+xm/QKmrb7yvwJnshbZKIh/40TklXHxOKb0aGxGIF7xNaaORHF8xvG9
+B6Ze4MR3IUUEQeYc610cscqATyroCeMTYnGNzn+ynzFtqB5qLhX6UTCg2iiyrLd1
+RoH6/nGuYbLNxcVLivuUh0Gyw9EZ6Qv/3Kf8fknZRjPXYpN42A++Uef5ruan6Fc8
+sF7KnT53i7ehTEh4XA2MScKX0W3cnTNIJAwAJSrz09hFVdM9avLK79OLh4c+mQIT
+nclhpM/Le9/FkPWloMd4u/sddHEb5lnjCJP/mQweh2D63YkpB/V7SyMlFnkf8GTU
+FMTSv6EdMnEwURFthQNm65grC6CVJbHdkg0MAy/86lY5H0oeIvPod2X8Or99JSqb
+7FySATOsSIcxWmXGlmS0XmhemHQxZEzmIVlYXa5oNuIs/LgeBXP49EhWTfSwuBea
+wFJDplm+VLRykYds8XUSsv3JADxnYxDdwXHpMCe3NUP9oJoDutshq/Xiy5/U+wx1
+zDm9/rO78x3UHIF7iyoI7gtkGcow8OTvMBhDF4ZHVR16Uc+gLZKPyfFNKwARAQAB
+tC1LeWxlIElzb20gKGlkZW50aXR5IGtleSkgPGlzb21rQGt5bGVpc29tLm5ldD6J
+Aj8EEwEIACkFAlX48uYCGwMFCSWYBgAHCwkIBwMCAQYVCAIJCgsEFgIDAQIeAQIX
+gAAKCRDyMEJ4FjPxxI1MEACL3U4aUgKBZZcAJlD2D4ZKYNkWHhpL5ZU5tzxjkzWk
+IxkGdJp9AQcRKvaL6tNpydgugQO+gbX92T44JB6Z/lbW25jTEeFs9W6VegksM2fd
+gXf+cXrD8pdkow35qu0ZofPD8MHqWijhnhd8KxojyUOPx+zFgpGBHmZ5+iG81paA
+VlYx4tuZzqczysUNclY5rYI9qjEwAY/Mm2zX7YcxbeqIgcjlMgS5lSqbEzlYzBWf
+kixIRKrn1tsmluBATbT5X1qo1Xpf6kpC/6hQiTRb6rCLiNatthlVceyl/Wu2Djz+
+mHG91uHkfarlIDrhYxxzZaU+T2zVTMPah7e0im/YGVTX1P8BOtMnADMOlp8epd7j
+LATH6k3j9k8m7VoOJREfkChcGpb8Pry+VTL5n8ZSqv/Rc/zarep1CATuTxxNoXIp
+lAtXhZR4l/WP3KvBCZRWcQhdE9CAZ5fGHHaTX8Lw4zQrdwePuDtxijDvzf2B4Kh2
+2ALhk2hLqdWq/Sz7x/8xWzWeOu6xGNBEZ7a/INyzLpXN3xur6Auvz1MwDP/qAtQf
+Y2QHT/Pb5yy4nhswkZ/EG3gYC3ShULh8Yj+eAIJVLxtIE9m/mSVIl7iJXFO3QkIh
+802galllykgzpPbawZu8/ulcmEaKgnw8y1m/J/uOLkz/O2UGDJwPTE2w3nhU6Rta
+oLkCDQRV+PLmARAAybPkFvPuVuVWTeZq2ZAg0KIgkPXfKNKaHijNapEtWN2ViVfC
+XFjZtlzANY3PrjCbhpoqckOMTHJO/vBFvFrxC+EFKFCwfHeO56ap4HkMJDvuJdP1
+0DZUbfOLNKIJTB16oa/rinJNb/Ihx62ykK1d1fvamOPd9CIaA4CWYhibogAj+ZDa
+YSIDQt05Pug/JCcMcBDizhfn+5CpD4379VUjYrZfSVMi/iIbGXCzQYgwDmMnhOXh
+JXUrQbgWpFImgN8YZGji+hlqHHCbvq7hnmgLCYK0d96PgDuOfyTRniYioH7dPVSm
+GmlVNtCa1Xz2WFrEn6RiXK+EHQAsh20R4d6pxzJqY9P4GT/VyGGsHa3IH7oHnChH
+KUeolQ9uqdubIZnvMZtLbOBUGNCbzCcHJZwT59bTeK9AR9is0juU9TLG6v2woC+y
+DG7eoUdd0BXH5Ej2JadiA61kmejAba0793Du+MHgNQbk88aMxVVGJ3yj+rZGwjVC
+DcrrKyIz4IVwK86ghHcyj0JY9vuKVGa05BpEUltxy3WygaXT8rTGgsKuPerI1ORG
+dwMzdT5/AfYO5rzAF4ia9qFKvjHkkK3HOvXr4Qv79iZZoMrJbdG8IFzNJxMntcGd
+VludqRDwJqkhs/aflgR6XX6OWp5fFdJT02O3dC+n5fQObiKJsm6raZxa67cAEQEA
+AYkCJQQYAQgADwUCVfjy5gIbDAUJJZgGAAAKCRDyMEJ4FjPxxEVjD/9rCDHxSIer
+4yxyY2BFBibZishqBqjCnfFjoeoRTl/8R0b6q00ELypHeK9CMzITGzosGMXshcRb
+3MpnZtiL7CXzaNqNCmWtmTF+Mej/CQRnMmSS2smtFaMu9jwiFN7nw9/f8ghrhNJY
+6P+Kc6fL7hpZ08vTePMmdeAOSyvO33nlwz1cttHm3TGX52DPeUjp91H7ZsELPsxx
+E+0zEohmbdamem/8U2U4DUJ99/LvcWfAkQbIVrWHlmE7WLVT8CZZ5VMA7RzkL+u7
+eGz93QBevpNmivvwTF94pmRSoy6SmDf5WCm3GlnsiFpsju7oLS2GVpwO6xboyldz
+L3k16xbEWYY2zf1kqfU5eWDiJDZ80E7pnYsBSCUyXquLkiKgqmKpGWlNVPljkFat
+eRAQJtiuyiburnyAY7V5lbCTmaqy9hIBCWyoJdE+buzZd48ncANI0CP9s2CjQ9WS
+sZLiC9btXSxW3djSZSa0na1r0qKEzavxqPDEbHhjoBX0hPjtkdK6OuJFpKa9ln9b
+XYDFD9/EEGYyLBuvVpDwRVlBi5HTTX91KlgrZUlj1cx6w6TFeChn2WFtPj94Vbb0
++wU8RcxgBsnktvux9pn+KQNCLEuC/s9hXl+DV+Ka2HLPVplgQShjaqtJwZxY5qCW
+1CB5fAODHn4IqQdSHPfmtN5NQfnISmRWgQ==
+=TZB/
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
