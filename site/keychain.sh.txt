@@ -1,0 +1,15 @@
+# append this to $HOME/.profile:
+
+# apt-get install keychain or check out http://www.funtoo.org/Keychain
+keychain -q
+
+# "[keychain] saves the ssh-agent environment variables to
+# ~/.keychain/${HOSTNAME}-sh"
+keychain_conf="$HOME/.keychain/$(hostname -s)-sh"
+
+# load the ssh-agent environment variables
+[ -e "$keychain_conf" ]       && source $keychain_conf
+
+# load the gpg-agent environment variables
+[ -e "${keychain_conf}-gpg" ] && source ${keychain_conf}-gpg
+
