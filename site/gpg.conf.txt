@@ -33,8 +33,12 @@ sig-notation issuer-fpr@notations.openpgp.fifthhorseman.net=%g
 # when making an OpenPGP certification, use a stronger digest than the default SHA1:
 cert-digest-algo SHA512
 
-# use HKPS SKS server
+# Use HKPS SKS server over to:
+#   torify gpg --recv-keys ...
+# Getting the cert:
 #   curl -LO https://sks-keyservers.net/sks-keyservers.netCA.pem
+#   SHA256:    0666ee848e03a48f3ea7bb008dbe9d63dfde280af82fb4412a04bf4e24cab36b
+#   SHA512256: b8d043e869ca6a9857300ea9955380a7145b577a3c11e12890677a8ea7a8b5be
 keyserver hkps://hkps.pool.sks-keyservers.net
 keyserver-options ca-cert-file=/etc/ssl/certs/sks-keyservers.netCA.pem
 keyserver-options no-honor-keyserver-url
